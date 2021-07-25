@@ -4,8 +4,8 @@ I'm a theoretical physicist, interested in Statistical Software, Machine Learnin
 
 I spend most of my coding time in R and C++, but I also enjoy delving into Python.
 
-| [Personal website](https://vgherard.github.io)	| [My R-universe](https://vgherard.r-universe.dev/) 	| [LinkedIn](https://www.linkedin.com/in/vgherard/) 	| [Twitter](https://twitter.com/ValerioGherardi)  |
-|:---:	|:---:	|:---:	|:---:	|
+| [Personal website](https://vgherard.github.io)	| [My R-universe](https://vgherard.r-universe.dev/) 	| [LinkedIn](https://www.linkedin.com/in/vgherard/) 	| [Twitter](https://twitter.com/ValerioGherardi)  | [CV](https://raw.githubusercontent.com/vgherard/cv/master/cv/cv.pdf) |
+|:---:	|:---:	|:---:	|:---:	|:---: |
 <!--
 **vgherard/vgherard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
