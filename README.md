@@ -2,9 +2,9 @@
 
 I'm a theoretical physicist, interested in Statistical Software, Machine Learning and Data Science.
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ValerioGherardi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vgherard/)
 [![Website](https://img.shields.io/badge/-Website-red?style=flat-square)](https://vgherard.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vgherard/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ValerioGherardi)
 [![CV](https://img.shields.io/badge/-Download%20CV-green?style=flat-square)](https://raw.githubusercontent.com/vgherard/cv/master/cv/cv.pdf)
 
 <!--
